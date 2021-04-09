@@ -1,4 +1,8 @@
-# \# About Me
++++
+title = "Yash Garg"
++++
+
+## \## About Me
 
 {{< figure class="avatar" src="https://avatars.githubusercontent.com/u/33605526?v=4" >}}
 
