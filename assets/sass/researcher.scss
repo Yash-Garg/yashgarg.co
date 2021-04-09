@@ -57,6 +57,14 @@ hr {
     line-height: 1.2;
 }
 
+.navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 0.5rem;
+}
+
+.flex-column {
+    flex-direction: row!important;
+}
 .container {
     max-width: $max-width;
 }
