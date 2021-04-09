@@ -26,11 +26,11 @@ Here are a few things I've picked up along my learning journey :
 
 - **[PaperNest](https://play.google.com/store/apps/details?id=com.yashgarg.papernest)** - An app for downloading question papers and study material with just a click for my college integrated with Firebase.
 - **[FlutSplash](https://github.com/Yash-Garg/FlutSplash)** - A minimal unsplash client written in flutter using the Unsplash API.
-- **[CovidSafety](https://github.com/Yash-Garg/CovidSafety)** - A website that contains the latest information and preventive measures on the global pandemic COVID-19.
+- **[CovidSafety](https://covidsafety.netlify.app/)** - A website that contains the latest information and preventive measures on the global pandemic COVID-19.
 - **[Wallhaven Bot](https://github.com/Yash-Garg/node-wallhaven-bot)** - A telegram bot to download wallpapers from Wallhaven based on NodeJS
-- **[Project404 Website](https://project404.co/)** - A website for Project404 custom ROM made using bootstrap and HTML/CSS.
+- **[Project 404 - Main Website](https://project404.co/)** - A website for Project404 custom ROM made using bootstrap and HTML/CSS.
 - **[Pubdev Searcher Bot](https://github.com/Yash-Garg/python-pubdev-bot)** - A telegram bot to search packages on [pub.dev](https://pub.dev/) written in python.
-- **[Project 404 Downloads Wesbite](https://p404dl.netlify.app/)** - Downloads website for Project 404 ROM.
+- **[Project 404 - Downloads Wesbite](https://downloads.project404.co/)** - Downloads website for Project 404 ROM.
 
 And other random stuff can be found on my **[Github](https://github.com/Yash-Garg)**.
 
