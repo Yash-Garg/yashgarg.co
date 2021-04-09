@@ -1,0 +1,34 @@
+title = "Yash Garg"
+baseURL = "https://yashgarg.co"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = false          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""
+
+[params]
+  author = "Yash Garg"
+  description = "Android and Web Developer"
+  favicon = "favicon.ico"
+  logo = ""
+  [params.footer]
+    text = "Powered by HUGO"
+    url = "https://gohugo.io/"
+  [params.style]
+    fontFamily = "Inconsolata"
+    pageWidth = "800px"
+    avatarSize = "100px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume.pdf"
+    weight = 1
+
+[markup.goldmark.renderer]
+  unsafe = true

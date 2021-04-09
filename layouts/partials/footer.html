@@ -1,0 +1,11 @@
+<div id="footer" class="mb-3">
+    {{ with .Site.Params.footer }}
+    <hr>
+    <div class="container text-center">
+        <medium>&copy; 2021 Yash Garg | </medium>
+        <a href="{{ .url | absURL }}">
+            <medium>{{ .text }}</medium>
+        </a>
+    </div>
+    {{ end }}
+</div>
