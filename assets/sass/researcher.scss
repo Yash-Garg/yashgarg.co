@@ -3,7 +3,7 @@ $max-width: {{ .Param "style.pageWidth" | default "750px;" }};
 $avatar-size: {{ .Param "style.avatarSize" | default "90px;" }};
 
 // Colors
-$black: {{ .Param "style.colorBlack" | default "#222222" }};
+$white: {{ .Param "style.colorWhite" | default "#fff" }};
 $red: {{ .Param "style.colorRed" | default "#dc3545" }};
 
 // Font
@@ -26,13 +26,13 @@ $y-medium: 1.0rem;
     }
 }
 %link-dark {
-    color: $black;
+    color: $white;
     text-decoration: none;
     & * {
-        color: $black;
+        color: $white;
     }
     &:hover {
-        color: $black;
+        color: $white;
         text-decoration: underline;
     }
 }
@@ -43,8 +43,16 @@ $y-medium: 1.0rem;
 }
 
 // Style
+body {
+    background-color: #181A1B;
+}
+
+hr {
+    background-color: gray;
+}
+
 * {
-    color: $black;
+    color: $white;
     font-family: $font-family;
     line-height: 1.2;
 }
@@ -131,7 +139,7 @@ svg {
             @extend %table-cell;
         }
         & tr:nth-child(2n) {
-            background-color: #f8f8f8;
+            background-color: #212121;
         }
     }
     blockquote {
@@ -141,11 +149,10 @@ svg {
         padding: 8px 8px;
     }
     code {
-        color: $black;
-        background-color: #f8f8f8;
-        border: 1px solid #cccccc;
+        color: #fff;
+        background-color: #212121;
         border-radius: 10%;
-        padding: 0px 4px;
+        padding: 0 4px;
     }
     pre code {
         all: unset;
@@ -161,4 +168,20 @@ svg {
     a {
         @extend %link-dark;
     }
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar {
+    height: 6px;
+    width: 6px;
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(75, 75, 75);
 }

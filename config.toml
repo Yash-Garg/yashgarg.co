@@ -18,8 +18,8 @@ googleAnalytics = ""
     fontFamily = "Inconsolata"
     pageWidth = "800px"
     avatarSize = "100px"
-    colorBlack = "#222222"
-    colorRed = "#dc3545"
+    colorWhite = "#ffffff"
+    colorRed = "#ff754f"
 
 [permalinks]
   "/" = "/:filename"
