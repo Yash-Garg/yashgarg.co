@@ -1,4 +1,8 @@
-# \# My Ricing Journey on Arch
++++
+title = "My Ricing Journey"
++++
+
+## \## My Ricing Journey on Arch
 
 As far as i remember i've started ricing since mid 2019, using **Arch linux** as my distro.
 I used [**bspwm**](https://github.com/baskerville/bspwm) as my window manager for my first rice, and at first i didn't know that it uses key combinations only.
