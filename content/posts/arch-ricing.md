@@ -9,7 +9,7 @@ I used [**bspwm**](https://github.com/baskerville/bspwm) as my window manager fo
 
 After hours of googling, getting frustrated and reading the wiki, i somehow managed to work with it.
 
-I was a newbie at ricing so i started to look on the subreddit my friend suggested me i.e. [**r/unixporn**](https://www.reddit.com/r/unixporn).
+I was a newbie at ricing so i started to look on the subreddit my friend suggested me i.e. [**r/unixp*rn**](https://www.reddit.com/r/unixporn).
 
 After going through many posts, i finally made my first rice as you can see below in the screenshot.
 
