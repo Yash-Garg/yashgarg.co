@@ -17,10 +17,10 @@ Here are a few things I've picked up along my learning journey :
 
 - HTML | CSS | JQuery
 - Python | GoLang
-- C | C++
+- C | C++ (Basics and Data Structures)
 - Firebase
 - Git | Github
-- Flutter (In Progress)
+- Flutter | Dart (Currently learning)
 
 ## \## Projects
 
