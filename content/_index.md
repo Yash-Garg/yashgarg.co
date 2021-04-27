@@ -17,14 +17,15 @@ Here are a few things I've picked up along my learning journey :
 
 - HTML | CSS | JQuery
 - Python | GoLang
-- C | C++ (Basics and Data Structures)
+- Flutter | Dart
 - Firebase
 - Git | Github
-- Flutter | Dart (Currently learning)
+- C | C++ (Basics and Data Structures)
 
 ## \## Projects
 
 - **[PaperNest](https://play.google.com/store/apps/details?id=com.yashgarg.papernest)** - An app for downloading question papers and study material with just a click for my college integrated with Firebase.
+- **[Valiant](https://github.com/Yash-Garg/Valiant)** - A complex and random password generator built with Flutter
 - **[FlutSplash](https://github.com/Yash-Garg/FlutSplash)** - A minimal unsplash client written in flutter using the Unsplash API.
 - **[CovidSafety](https://covidsafety.netlify.app/)** - A website that contains the latest information and preventive measures on the global pandemic COVID-19.
 - **[Wallhaven Bot](https://github.com/Yash-Garg/node-wallhaven-bot)** - A telegram bot to download wallpapers from Wallhaven based on NodeJS
