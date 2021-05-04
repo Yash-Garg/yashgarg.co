@@ -46,8 +46,6 @@ $y-medium: 1.0rem;
 body {
     background-color: #181A1B;
     font-size: 14px;
-    font-family: JetBrains Mono;
-
 }
 
 hr {
@@ -65,12 +63,6 @@ li {
     font-family: $font-family;
     line-height: 1.2;
 }
-
-.navbar-nav .nav-link {
-    padding-right: 0;
-    padding-left: 0.5rem;
-}
-
 
 .flex-column {
     flex-direction: row!important;
