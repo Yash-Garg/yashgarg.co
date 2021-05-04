@@ -15,7 +15,7 @@ googleAnalytics = ""
     text = "Powered by HUGO"
     url = "https://gohugo.io/"
   [params.style]
-    fontFamily = "Inconsolata"
+    fontFamily = "JetBrains Mono"
     pageWidth = "800px"
     avatarSize = "100px"
     colorWhite = "#ffffff"
